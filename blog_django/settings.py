@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 子应用的注册
     'users.apps.UsersConfig',
+    'home.apps.HomeConfig',
 ]
 
 
